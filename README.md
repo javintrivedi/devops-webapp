@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>DevOps Web App - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f4f6f9;
-            color: #333;
-        }
 
-  h1, h2, h3 {
-            color: #1e3c72;
-        }
-      .container {
-            background: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-     ul {
-            margin-left: 20px;
-        }
-        code {
-            background: #eee;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-    </style>
-</head>
-<body>
 
 <div class="container">
     <h1>DevOps Web Application 🚀</h1>
