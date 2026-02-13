@@ -1,5 +1,4 @@
 
-
 <div class="container">
     <h1>DevOps Web Application 🚀</h1>
     <p><strong>Subject:</strong> DevOps</p>
