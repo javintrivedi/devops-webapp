@@ -6,7 +6,7 @@
     <p><strong>Environment:</strong> Cloud-Based Deployment</p>
     <div class="section">
         <h2>1. Project Overview</h2>
-        <p>
+        <p> 
             This project demonstrates a simple DevOps-based web application.
             The application represents a modern DevOps workflow including
             Continuous Integration (CI), Continuous Deployment (CD),
